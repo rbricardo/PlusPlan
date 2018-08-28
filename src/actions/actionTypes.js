@@ -1,0 +1,12 @@
+export const SET_ORIGEM_VALUE = 'SET_ORIGEM_VALUE';
+export const SET_DESTINO_VALUE = 'SET_DESTINO_VALUE';
+export const SET_MIN_VALUE = 'SET_MIN_VALUE';
+export const SET_TIME = 'SET_TIME';
+export const SET_PLAN = 'SET_PLAN';
+export const SET_WITH_PLAN = 'SET_WITH_PLAN';
+export const SET_WITHOUT_PLAN = 'SET_WITHOUT_PLAN';
+export const SET_TABLE = 'SET_TABLE';
+export const ADD_TABLE = 'ADD_TABLE';
+export const CLEAR = 'CLEAR';
+export const CLEAR_TABLE = 'CLEAR_TABLE';
+export const GET_TABLE_INIT = 'GET_TABLE_INIT';
